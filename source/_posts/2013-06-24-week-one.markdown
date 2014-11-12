@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Week One, Day One"
+date: 2013-06-24 10:32
+comments: true
+categories: Work
+---
+
+<p>
+This week is my first attempt at independent, focused, self-promoting work.
+As such, I have set a goal to log a total 55 work hours, which I hope to break up as follows:
+</p>
+
+<ul>
+    <li>30 hrs, heads-down coding, product design, project work</li>
+    <li>5 hrs, organization and planning (ideally 30 minutes at the start and end of each day)</li>
+    <li>5 hrs, reflection and updating this blog</li>
+    <li>10 hrs, reading, learning, and staying up to date</li>
+    <li>5 hrs, flexible time</li>
+</ul>
+
+<p>
+This morning, I was able to get started on the personal website that I have always been meaning to create.
+The website is being built on Rails to support future functionality, with Susy/Compass as the CSS framework.
+Hopefully, I will be able to flesh out some of the pages for the site this afternoon.
+As Tank from 'The Matrix' said, "If you are, it's a very exciting time."
+</p>

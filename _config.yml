@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Winston, Reloaded.
+subtitle: Welcome to the Renaissance.
+author: Winston Wan
 simple_search: http://google.com/search
 description:
 
@@ -20,6 +20,10 @@ subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
+
+# Hiding posts as explained by: http://arshad.github.io/blog/2012/05/10/recipe-hiding-posts-from-the-octopress-front-page/
+front_page_categories: ["Musings"]
+front_page_categories_op: 'hide'
 
 # ----------------------- #
 #    Jekyll & Plugins     #
